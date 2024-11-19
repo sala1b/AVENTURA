@@ -1,9 +1,7 @@
-Criar um jogo de aventura fácil pode ser muito divertido! Vou montar um modelo simples de **jogo de aventura baseado em texto**, no qual o jogador toma decisões e avança pela história. Isso pode ser jogado diretamente no papel, em um aplicativo de mensagens ou adaptado para um ambiente interativo.
 
----
 
 ### **Título do Jogo:**  
-**A Jornada do Explorador**
+**AVENTURA 1ºB**
 
 ### **Sinopse:**  
 Você é Alex, um jovem explorador que acabou de encontrar um mapa misterioso que leva a um tesouro lendário escondido na Floresta Encantada. Sua missão é seguir o mapa, enfrentar desafios e tomar as decisões certas para encontrar o tesouro!
